@@ -10,7 +10,7 @@ const Order = require('./models/order')
 
 mongoose.set('useFindAndModify', false)
 
-const MONGODB_URI = 'mongodb+srv://sirensimo7:Simppa12345@simozon.e2242.mongodb.net/deliveryapp?retryWrites=true&w=majority'
+const MONGODB_URI = 'mongodb+srv://----/deliveryapp?retryWrites=true&w=majority'
 
 const JWT_SECRET = 'NEED_HERE_A_SECRET_KEY'
 
